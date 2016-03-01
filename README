@@ -1,0 +1,4 @@
+Homework
+------------------------
+
+`mvn clean install -P autoInstall`
